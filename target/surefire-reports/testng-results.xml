@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="85" started-at="2020-11-26T20:24:40 IST" finished-at="2020-11-26T20:24:40 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="85" started-at="2020-11-26T20:24:40 IST" finished-at="2020-11-26T20:24:40 IST">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="AppiumAndroidAutomation()[pri:0, instance:qaclickacademy.AppiumTest@3327bd23]" name="AppiumAndroidAutomation" duration-ms="1" started-at="2020-11-26T20:24:40 IST" finished-at="2020-11-26T20:24:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumAndroidAutomation -->
+        <test-method status="PASS" signature="AppiumiOSAutomation()[pri:0, instance:qaclickacademy.AppiumTest@3327bd23]" name="AppiumiOSAutomation" duration-ms="1" started-at="2020-11-26T20:24:40 IST" finished-at="2020-11-26T20:24:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumiOSAutomation -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.APITest">
+        <test-method status="PASS" signature="APIAutomation()[pri:0, instance:qaclickacademy.APITest@a67c67e]" name="APIAutomation" duration-ms="11" started-at="2020-11-26T20:24:40 IST" finished-at="2020-11-26T20:24:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIAutomation -->
+      </class> <!-- qaclickacademy.APITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="chromeAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@4e1d422d]" name="chromeAutomation" duration-ms="0" started-at="2020-11-26T20:24:40 IST" finished-at="2020-11-26T20:24:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeAutomation -->
+        <test-method status="PASS" signature="firefoxAutomation()[pri:0, instance:qaclickacademy.SeleniumTest@4e1d422d]" name="firefoxAutomation" duration-ms="1" started-at="2020-11-26T20:24:40 IST" finished-at="2020-11-26T20:24:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefoxAutomation -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
