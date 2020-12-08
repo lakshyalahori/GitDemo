@@ -7,6 +7,8 @@ public class AppiumTest {
 	@Test
 	public void AppiumAndroidAutomation() {
 		System.out.println("Android Automation");
+		System.out.println("Android Automation2");
+		System.out.println("Android Automation3");
 	}
 	
 	@Test
